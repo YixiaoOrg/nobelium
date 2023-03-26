@@ -83,6 +83,8 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/" aria-label={BLOG.title}>
             <div className="h-6">
+              <h1>金坛JinTan</h1>
+              /*
               <svg
                 width="24"
                 height="24"
@@ -109,7 +111,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                     <stop offset="1" stopColor="#E9E9E9" stopOpacity="0" />
                   </radialGradient>
                 </defs>
-              </svg>
+              </svg> */
             </div>
           </Link>
           {navBarTitle ? (
