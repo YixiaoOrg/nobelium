@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'JinTan',
   author: 'Yixiao.Org',
-  email: 'i@panyixiao.com',
+  email: 'hi@yixiao.org',
   link: 'https://www.jintan.org',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
