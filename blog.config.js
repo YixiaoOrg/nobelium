@@ -3,7 +3,7 @@ const BLOG = {
   author: 'JinTan.Org',
   email: 'hi@jintan.org',
   link: 'https://www.jintan.org',
-  description: 'This gonna be an awesome website.',
+  description: '金坛，李志家乡',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
